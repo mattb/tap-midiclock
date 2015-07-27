@@ -14,6 +14,8 @@ Wiring
 +-----------------+       +-------------+                       
 ```
 
+![Lexicon wiring diagram](./lexicon-vortex-plug-diagram.png)
+
 <img src="https://farm1.staticflickr.com/375/20043978185_e9fa426ca9_o.jpg">
 
 Video of an earlier Arduino prototype: https://vine.co/v/en5lijptJU2

@@ -21,7 +21,7 @@ Video of an earlier Arduino prototype: https://vine.co/v/en5lijptJU2
 Parts
 -----
 
-Teensy 3.1: http://www.amazon.com/gp/product/B00NC42Y64
-Relay module: http://www.amazon.com/gp/product/B0057OC6D8
-1/4 inch jack socket: http://www.amazon.com/gp/product/B00CO6Q1II
-Stereo 1/4 inch patch cable: http://www.amazon.com/gp/product/B00IPNR64M
+* Teensy 3.1: http://www.amazon.com/gp/product/B00NC42Y64
+* Relay module: http://www.amazon.com/gp/product/B0057OC6D8
+* 1/4 inch jack socket: http://www.amazon.com/gp/product/B00CO6Q1II
+* Stereo 1/4 inch patch cable: http://www.amazon.com/gp/product/B00IPNR64M

@@ -14,4 +14,4 @@ Wiring
 +-----------------+       +-------------+     +----------------+
 ```
 
-!(https://farm1.staticflickr.com/375/20043978185_e9fa426ca9_o.jpg)
+<img src="https://farm1.staticflickr.com/375/20043978185_e9fa426ca9_o.jpg">

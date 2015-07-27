@@ -14,9 +14,9 @@ Wiring
 +-----------------+       +-------------+                       
 ```
 
-![Lexicon wiring diagram](./lexicon-vortex-plug-diagram.png)
+![Lexicon wiring diagram](./lexicon-vortex-plug-diagram.png "Lexicon Vortex tap socket wiring diagram")
 
-<img src="https://farm1.staticflickr.com/375/20043978185_e9fa426ca9_o.jpg">
+![Picture of project](https://farm1.staticflickr.com/375/20043978185_e9fa426ca9_o.jpg "The assembled project")
 
 Video of an earlier Arduino prototype: https://vine.co/v/en5lijptJU2
 
